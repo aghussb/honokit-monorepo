@@ -1,0 +1,17 @@
+{
+  "name": "@honokit-monorepo/api-client",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "rm -rf dist && tsc"
+  },
+  "dependencies": {
+    "@honokit-monorepo/api": "workspace:^",
+    "hono": "^4.10.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
