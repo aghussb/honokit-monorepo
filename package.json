@@ -4,11 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "pnpm run -r --parallel --aggregate-output dev",
-    "build": "pnpm run -r build",
-    "start": "pnpm run -r --parallel --aggregate-output start",
-    "test": "pnpm run -r --parallel test",
-    "lint": "pnpm run -r --parallel lint",
-    "deploy": "pnpm build && pnpm run -r deploy"
+    "build": "pnpm run -r build"
   },
   "license": "MIT",
   "packageManager": "pnpm@10.22.0"
