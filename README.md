@@ -31,11 +31,11 @@ pnpm run dev
 pnpm run build
 ```
 
-## Example Implementation
-
-To see a working implementation of this boilerplate, check out the repository:
-
-* **[Simple Online Library](https://github.com/aghussb/simple-online-library)**
+<!-- ## Example Implementation -->
+<!---->
+<!-- To see a working implementation of this boilerplate, check out the repository: -->
+<!---->
+<!-- * **[Simple Online Library](https://github.com/aghussb/simple-online-library)** -->
 
 ## Inspiration
 - [bhvr](https://github.com/stevedylandev/bhvr)
